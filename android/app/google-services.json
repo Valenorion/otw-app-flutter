@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43297154872",
+    "project_id": "otw-app-f1e65",
+    "storage_bucket": "otw-app-f1e65.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43297154872:android:e3756a3efe2bbae00f03cd",
+        "android_client_info": {
+          "package_name": "com.example.otw_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43297154872-hebu3a25nlh8o6m5evrt65aqftbgpnni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn8O4lJHMPw8fwHuJ1GvPZkR3fuNpBlSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43297154872-hebu3a25nlh8o6m5evrt65aqftbgpnni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
